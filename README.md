@@ -49,4 +49,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-Dhairya Joshi - [Email](mailto:your-email@example.com)
+Dhairya Joshi - [Email](mailto:joshidhairya2511@example.com)
